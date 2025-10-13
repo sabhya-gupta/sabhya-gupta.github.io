@@ -27,7 +27,7 @@ body {
   /* border-radius: 50%; */ /* <-- disable this */
   display: block;
   margin-bottom: 1rem;
-  position: relative;
+  position: right;
 }
 
 .position {
