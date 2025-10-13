@@ -9,11 +9,13 @@
 <body>
   <div class="container">
     <aside class="sidebar">
-      <img src="/images/profile.jpg" alt="Sabhya Gupta" class="profile-pic">
-      <h1>{{ site.title }}</h1>
-      <p class="position">Economics PhD Student</p>
-      <p class="position">Boston University</p>
-      
+        <div class="profile-container">
+
+        <img src="/images/profile.jpg" alt="Sabhya Gupta" class="profile-pic">
+        <h1>{{ site.title }}</h1>
+        <p class="position">Economics PhD Student</p>
+        <p class="position">Boston University</p>
+      </div>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
@@ -21,10 +23,14 @@
           <li><a href="#teaching">Teaching</a></li>
         </ul>
       </nav>
-      <p class="social-links">
-      <a href="https://bsky.app/profile/sabhyagupta.bsky.social" target="_blank">Bluesky</a> |
-      <a href="https://www.linkedin.com/in/sabhyagupta/" target="_blank">LinkedIn</a>
-    </p>
+        <p class="social-links">
+        <a href="https://bsky.app/profile/sabhyagupta.bsky.social" target="_blank" aria-label="Bluesky">
+          <img src="/assets/icons/bluesky.svg" alt="Bluesky" class="icon">
+        </a>
+        <a href="https://www.linkedin.com/in/sabhyagupta/" target="_blank" aria-label="LinkedIn">
+          <img src="/assets/icons/linkedin.svg" alt="LinkedIn" class="icon">
+        </a>
+      </p>
     </aside>
     <main class="content">
       {{ content }}

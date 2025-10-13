@@ -126,3 +126,18 @@ details[open] summary {
   height: 20px;
   vertical-align: middle;
 }
+
+.profile-container {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.profile-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* Adjust text color for visibility */
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.7); /* Optional for readability */
+}
