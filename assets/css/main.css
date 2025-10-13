@@ -110,3 +110,19 @@ details[open] summary {
     padding-left: 0;
   }
 }
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  margin: 0 6px;
+  text-decoration: none;
+  color: #0077b5; /* LinkedIn blue */
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
