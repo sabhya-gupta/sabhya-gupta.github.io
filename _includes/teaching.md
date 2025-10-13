@@ -1,7 +1,6 @@
 ## Teaching Assistance {#teaching}
 
-*Boston University*
-<p>
+<h3><em>Boston University</em></h3>
 <ul>
     <li>ECON 202: Intermediate Macroeconomics, Fall 2025 </li>
     <li> ECON 201: Intermediate Microeconomics, Spring 2025, 
@@ -12,8 +11,7 @@
   </ul>
 
 <br>
-*J-PAL*
-<p>
+<h3><em>J-PAL</em></h3>
   <ul>
     <li>Research Staff Training, 2020-2023 </li>
     <li><a href="https://micromasters.mit.edu/dedp/" target="_blank">
@@ -21,6 +19,5 @@
   </a>: Designing and Running Randomized Evaluations, 3 semesters between 2020–2023</li>
   </ul>
   
-</p>
 
 <br>
