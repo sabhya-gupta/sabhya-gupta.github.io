@@ -2,7 +2,7 @@
 
 ### *Work in Progress*
 
-The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Hector Blano](https://hector-blanco.github.io/), [Noémie Sportiche](https://noemiesportiche.netlify.app/), [David M. Cutler](https://scholar.harvard.edu/cutler/home)) \
+The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Hector Blano](https://hector-blanco.github.io/), [Noémie Sportiche](https://noemiesportiche.netlify.app/), [David M. Cutler](https://scholar.harvard.edu/cutler/home)) 
 
 
 ### *J-PAL Resources*
@@ -11,3 +11,4 @@ The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Ev
 
 
 [Repository of measurement and survey design resources](https://www.povertyactionlab.org/resource/repository-measurement-and-survey-design-resources), J-PAL Research Resource,with Jack Cavanagh
+
