@@ -1,5 +1,5 @@
 
-## Research{#research}
+## Research {#research}
 
 ### *Work in Progress*
 

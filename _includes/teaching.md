@@ -1,4 +1,4 @@
-## Teaching Assistance{#teaching}
+## Teaching Assistance {#teaching}
 
 *Boston University*
 <p>ECON 202: Intermediate Macroeconomics, Fall 2025</p>
