@@ -11,7 +11,7 @@
       <li>ECON 101: Introductory Microeconomics, Fall 2024</li>
   </ul>
 
-  
+<br>
 *J-PAL*
 <p>
   <ul>
