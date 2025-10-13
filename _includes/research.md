@@ -5,7 +5,7 @@
 
 Indirect effect of Political connections on firms
 
-The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Hector Blano](https://hector-blanco.github.io/), [Noémie Sportiche](https://noemiesportiche.netlify.app/), [David M. Cutler](https://scholar.harvard.edu/cutler/home)) 
+The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Hector Blanco](https://hector-blanco.github.io/), [Noémie Sportiche](https://noemiesportiche.netlify.app/), and [David M. Cutler](https://scholar.harvard.edu/cutler/home)) 
 
 
 ### *J-PAL Resources*
