@@ -11,6 +11,4 @@
 <p style="margin: 0.25em"> Research Staff Training, 2020-2023</p>
 <p style="margin: 0.25em"> [MITx MicroMasters Program in Data, Economics, and Design of Policy](https://micromasters.mit.edu/dedp/): Designing and Running Randomized Evaluations, 3 semesters between 2020-2023</p>
 
-
-
 <br>
