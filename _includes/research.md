@@ -16,3 +16,7 @@ The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Ev
 [Repository of measurement and survey design resources](https://www.povertyactionlab.org/resource/repository-measurement-and-survey-design-resources), J-PAL Research Resource,with Jack Cavanagh
 
 
+###*Blogs/Other Writings
+
+[Evidence from the AEA RCT Registry on new research during Covid-19](https://blogs.worldbank.org/en/impactevaluations/evidence-aea-rct-registry-new-research-during-covid-19-guest-post-jack-cavanagh), with Jack Cavanagh, Maya Duru, Sarah Kopper and Keesler Welch
+
