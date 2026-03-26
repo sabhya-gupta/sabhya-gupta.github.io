@@ -1,11 +1,10 @@
-## Teaching Assistance {#teaching}
+## Teaching Assistance  {#teaching}
 
-<h3><em>Boston University</em></h3>
+<h3><em>Boston University  <a href="/files/teaching_evaluation_summary.pdf" target="_blank">
+    Teaching evaluation summary</em></h3>
 <ul>
     <li>ECON 202: Intermediate Macroeconomics, Fall 2025 </li>
-    <li> ECON 201: Intermediate Microeconomics, Spring 2025, 
-  <a href="/files/CAS EC 201 A1 - Sabhya Gupta - Spring 2025.pdf" target="_blank">
-    Teaching evaluation
+    <li> ECON 201: Intermediate Microeconomics, Spring 2025
   </a></li>
       <li>ECON 101: Introductory Microeconomics, Fall 2024</li>
   </ul>
