@@ -1,6 +1,6 @@
 ## Teaching Assistance  {#teaching}
 
-<h3><em>Boston University  <a href="/files/teaching_evaluation_summary.pdf" target="_blank">
+<h3><em>Boston University  (<a href="/files/teaching_evaluation_summary.pdf" target="_blank">)
     Teaching evaluation summary</em></h3>
 <ul>
     <li>ECON 202: Intermediate Macroeconomics, Fall 2025 </li>
