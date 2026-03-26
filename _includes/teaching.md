@@ -1,11 +1,9 @@
 ## Teaching Assistance  {#teaching}
 
-<h3><em>Boston University  (<a href="/files/teaching_evaluation_summary.pdf" target="_blank">)
-    Teaching evaluation summary</em></h3>
+<h3><em>Boston University  </em></h3> (<a href="/files/teaching_evaluation_summary.pdf" target="_blank"></a>)
 <ul>
     <li>ECON 202: Intermediate Macroeconomics, Fall 2025 </li>
-    <li> ECON 201: Intermediate Microeconomics, Spring 2025
-  </a></li>
+    <li> ECON 201: Intermediate Microeconomics, Spring 2025 </li>
       <li>ECON 101: Introductory Microeconomics, Fall 2024</li>
   </ul>
 
