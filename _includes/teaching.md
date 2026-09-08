@@ -1,3 +1,7 @@
+## Instructor {#teaching}
+
+ECON 201: Intermediate Macroeconomics, Fall 2026
+
 ## Teaching Assistance  {#teaching}
 
 <h3><em>Boston University  </em> (<a href="/files/teaching_evaluation_summary.pdf" target="_blank"> Teaching Evaluation Summary </a>) </h3>
