@@ -1,14 +1,12 @@
-## Instructor {#teaching}
-
-ECON 201: Intermediate Macroeconomics, Fall 2026
-
-## Teaching Assistance
+## Teaching {#teaching}
 
 <h3><em>Boston University  </em> (<a href="/files/teaching_evaluation_summary.pdf" target="_blank"> Teaching Evaluation Summary </a>) </h3>
 <ul>
-    <li>ECON 202: Intermediate Macroeconomics, Fall 2025 </li>
-    <li> ECON 201: Intermediate Microeconomics, Spring 2025 </li>
-      <li>ECON 101: Introductory Microeconomics, Fall 2024</li>
+   <li> Instructor, Econ 201: Intermediate Macroeconomics, Fall 2026 </li> 
+
+    <li>TA, Econ 202: Intermediate Macroeconomics, Fall 2025 </li>
+    <li> TA, Econ 201: Intermediate Microeconomics, Spring 2025 </li>
+      <li>TA, Econ 101: Introductory Microeconomics, Fall 2024</li>
   </ul>
 
 <br>
