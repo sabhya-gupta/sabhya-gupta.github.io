@@ -2,8 +2,9 @@
 ## Research {#research}
 
 ### *Work in Progress*
+Chapter 40B and Housing Development in Massachusetts
 
-Indirect effect of Political connections on firms
+Gated Communities in Pakistan (with [Ben Marx](https://sites.google.com/view/bmarx/home) and [Mahvish Shaukat](https://sites.google.com/view/mahvishshaukat))
 
 The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Hector Blanco](https://hector-blanco.github.io/), [Noémie Sportiche](https://noemiesportiche.netlify.app/), and [David M. Cutler](https://scholar.harvard.edu/cutler/home)) 
 
