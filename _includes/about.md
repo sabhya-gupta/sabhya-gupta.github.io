@@ -1,6 +1,6 @@
 ## About me {#about}
 
-Welcome to my website! I am a 4th year Phd student in Economics at Boston University. My research focuses on the effect of politics and policy on urban development. 
+Welcome to my website! I am a 4th year PhD student in Economics at Boston University. My research examines the relationship between urban development, housing policy, and political economy.
 <br>
 <br>
 <br>
