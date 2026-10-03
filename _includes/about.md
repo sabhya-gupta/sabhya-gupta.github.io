@@ -3,4 +3,4 @@
 Welcome to my website! I am a 4th year PhD student in Economics at Boston University. My research examines the relationship between urban development, housing policy, and political economy.
 <br>
 
-You can contact me at [sabhyag@bu.edu](mailto:sabhyag@bu.edu) and download my CV [here](sabhya-gupta.github.io/files/Sabhya_Gupta_Academic_CV_2026.pdf)
+You can contact me at [sabhyag@bu.edu](mailto:sabhyag@bu.edu) and download my CV [here]({{ '/files/Sabhya_Gupta_Academic_CV_2026.pdf' | relative_url }}).
